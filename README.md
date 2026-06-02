@@ -1,4 +1,4 @@
-# S.A.M. — Stakeholder Analysis & Mapping
+#  Stakeholder Analysis & Mapping
 
 A full-stack Dockerized app for managing stakeholders across projects.
 
