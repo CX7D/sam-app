@@ -2,6 +2,7 @@
 
 A full-stack Dockerized app for managing stakeholders across projects.
 
+! Vibe Coded !
 ## Features
 
 - **Power/Interest Matrix** — Visualize stakeholders by influence and interest level
